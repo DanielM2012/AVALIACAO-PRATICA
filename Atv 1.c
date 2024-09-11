@@ -18,4 +18,4 @@ int main() {
     }
     return 0;
 }
-R:  Neste caso, a função verificar_primo, verifica se o número está na lista de números primos de 1 e 10 (2, 3, 5, 7).
+
